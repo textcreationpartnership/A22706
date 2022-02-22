@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles concluded at Paris the xxiiij of February 1605, stylo   Angliæ, by commissioners of the high and mightie kings, Iames by the grace of   God King of Great Britaine, France, and Ireland, defender of the faith, &amp;c. and Henrie the Fourth most Christian French king, and King of Nauar, for the more   commodious entercourse in traffique betweene their subiects</title>
+            <title>Treaties, etc. France 1606 Feb. 24</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1606</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22706</idno>
+            <idno type="STC">STC 9212</idno>
+            <idno type="STC">ESTC S2644</idno>
+            <idno type="EEBO-CITATION">24441844</idno>
+            <idno type="OCLC">ocm 24441844</idno>
+            <idno type="VID">27671</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 27671)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1850:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles concluded at Paris the xxiiij of February 1605, stylo   Angliæ, by commissioners of the high and mightie kings, Iames by the grace of   God King of Great Britaine, France, and Ireland, defender of the faith, &amp;c. and Henrie the Fourth most Christian French king, and King of Nauar, for the more   commodious entercourse in traffique betweene their subiects</title>
+                  <title>Treaties, etc. France 1606 Feb. 24</title>
+                  <author>England and Wales.</author>
+                  <author>England and Wales. Treaties, etc. France, 1606 Feb. 24.</author>
+               </titleStmt>
+               <extent>[28] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker ...,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴(-A1) B-D⁴ (last leaf blank).</note>
+                  <note>Reproduction of original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Foreign relations --  France --  1603-1625.</term>
+               <term>France --  Foreign relations --  Great Britain --  1589-1610.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:27671:1"/>
+            <pb facs="tcp:27671:1"/>
+            <p>ARTICLES CONCLVDED at <hi>Paris</hi> the xxiiij. of <hi>February</hi> 1605. <hi>ſtylo</hi> Angliae: <hi>By Commiſsioners of the High and</hi> Mightie Kings, <hi>Iames</hi> by the grace of God King of <hi>Great Britaine, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c. <hi>And</hi> Henrie <hi>the Fourth moſt Chriſtian French</hi> King, and King of <hi>Nauar,</hi> for the more <hi>commodious entercourſe in traf<g ref="char:EOLhyphen"/>fique</hi> betweene their Subiects.</p>
+            <p>Imprinted at <hi>London</hi> by <hi>Robert Barker,</hi> Printer to the Kings moſt excellent <hi>Maieſtie.</hi> 1606.</p>
+         </div>
+         <div type="list_of_commissioners">
+            <pb facs="tcp:27671:2" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms of the British royal family, with a crown above</figDesc>
+               </figure> COMMISSIONERS</head>
+            <list>
+               <item>For the King of <hi>Great Britaine, &amp;c.</hi>
+                  <list>
+                     <item>Sir THOMAS PAR<g ref="char:EOLhyphen"/>RY <hi>Knight, Am<g ref="char:EOLhyphen"/>baſſadour reſident in</hi> France.</item>
+                  </list>
+               </item>
+               <item>For the French <hi>King:</hi>
+                  <list>
+                     <item>
+                        <hi>Andrew Heralt</hi> Sieur <hi>of</hi> Maiſſe.</item>
+                     <item>
+                        <hi>Iean de Thumery</hi> Seiur <hi>of</hi> Boyſſiſe.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="treaty">
+            <pb facs="tcp:27671:2"/>
+            <head>ARTICLES CONCLVDED AT PARIS the xxiiij. of Februarie 1605, <hi>by Commiſsioners of the High</hi> and Mightie Kings, IAMES by the grace <hi>of God King of</hi> GREAT BRITAINE, FRANCE and IRELAND, Defender of the <hi>Faith, &amp;c. And</hi> HENRIE <hi>the Fourth</hi> moſt Chriſtian French King, and King <hi>of</hi> NAVAR, <hi>for the more commodi<g ref="char:EOLhyphen"/>ous entercourſe in Traffique be<g ref="char:EOLhyphen"/>tweene their ſubiects.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>IRST, It is agreed, &amp; con<g ref="char:EOLhyphen"/>cluded, that the Conuentions or Articles contei<g ref="char:EOLhyphen"/>ned in this trea<g ref="char:EOLhyphen"/>tie ſhall not be taken or repu<g ref="char:EOLhyphen"/>ted any way to derogate from the former Treaties; But that the ſayd Treaties ſhall remaine, and be in their firſt force and vertue, except in
+<pb facs="tcp:27671:3"/>thoſe points only in which they are by this preſent Treatie altered.</p>
+            <p n="2">2 And for the better encreaſing, and confirming of the Amitie and good Intel<g ref="char:EOLhyphen"/>ligence betweene the ſayd Princes; It is further agreed, that in all the Prouinces, Cities, Ports, and Hauens within either of their Kingdomes and Dominions, com<g ref="char:EOLhyphen"/>mandement ſhall be giuen, That the ſub<g ref="char:EOLhyphen"/>iects of the one and the other Princes re<g ref="char:EOLhyphen"/>ſpectiuely be kindly and louingly entrea<g ref="char:EOLhyphen"/>ted, and be ſuffered freely and ſafely to ex<g ref="char:EOLhyphen"/>erciſe Merchandiſe, and to traffique the one with the other without any offence or moleſtation; and that they be not hereaf<g ref="char:EOLhyphen"/>ter for any cauſe or occaſion whatſoeuer vniuſtly vexed contrarie to the Lawes and Cuſtomes of the place vnto which they ſhall reſort, or where they ſhall abide: and the Magiſtrates and Officers on either part ſhall be enioined to ſee that all the premiſ<g ref="char:EOLhyphen"/>ſes be duly obſerued and executed, as eue<g ref="char:EOLhyphen"/>rie one of them (where the contrary ſhall
+<pb facs="tcp:27671:3"/>be ſuffered) will anſwer in his owne pro<g ref="char:EOLhyphen"/>per name, and as a priuate perſon, to the partie grieued, his expenſes, damages and intereſt.</p>
+            <p n="3">3 It is likewiſe agreed and accorded, That all Cuſtomes, Taxes, and Impoſiti<g ref="char:EOLhyphen"/>ons which now in either Kingdomes are raiſed, to the vſe of the Kings, by their Cuſtomers, Farmers, and Deputies (as the conditions of affaires at this time requi<g ref="char:EOLhyphen"/>reth) ſhalbe continued prouiſionally vntill the ſame may be either aboliſhed or mo<g ref="char:EOLhyphen"/>derated; which both the ſaid Princes will ſeriouſly endeuour to effect, as their eſtates ſhall permit. And to the end that in the meane time the ſaid Taxes, Cuſtomes, and Impoſitions may on both parts bee better knowen, as alſo that it may appeare, what is to be paid of right, there ſhall be Tables made and ſet vp in publique places, aſwell at ROAN, and other Cities in FRANCE, as at LONDON, and other Cities of GREAT BRITAINE where need ſhall
+<pb facs="tcp:27671:4"/>be, that thereunto recourſe may be had, when queſtion or doubt ſhall ariſe of any of the ſaid Taxes, Cuſtomes, and Impoſiti<g ref="char:EOLhyphen"/>ons in either of the kingdomes.</p>
+            <p n="4">4 As touching Impoſitions &amp; Taxes, which are required in ſome Cities to the particular vſe and commodity of the ſaid Cities, vnder pretext of Grants to them made by the Kings and Princes; It is a<g ref="char:EOLhyphen"/>greed and accorded, that diligent inquirie ſhall be had thereof, and that the Maiors and Eſcheuins or Sheriffes of the Cities of ROAN, CANE, and BVRDEAVX, and of others to whom it may appertaine, ſhall forthwith deliuer vp vnto the Councell of the French King their ſaide Letters and Grants, by pretence whereof they raiſe and continue ſuch Taxes and Impoſitions, to the end that the ſame being ſeene and viewed, may bee cancelled, and made void, if they haue not beene made orderlie and vpon iuſt cauſes; and that in the meane ſeaſon the ſaid Maiors and Eſcheuins or
+<pb facs="tcp:27671:4"/>Sheriffes ſhall be prohibited, to ſuffer to be taken either more then is due, or any thing otherwiſe than it ought by the ſaid Grants; neither that they doe any way exceed the conditions conteined and pre<g ref="char:EOLhyphen"/>ſcribed in them, vpon paine of death, and the paiment alſo of foure fold for that which ſhall be ſo exacted. The like where<g ref="char:EOLhyphen"/>of is to be performed in the City of LON<g ref="char:EOLhyphen"/>DON, and in other the Cities of GREAT BRITAIN, if it bee found that any ſuch thing hath beene exacted there.</p>
+            <p n="5">5 It is alſo agreed that the Merchants of FRANCE traffiquing into ENGLAND ſhall not be conſtrained heereafter to giue other Caution or Bond than Iuratorie Caution, or an oath for the ſale of their Merchandizes, or for the conuerting or employing of the moneys growing there<g ref="char:EOLhyphen"/>upon into other wares; neither ſhall they be driuen for obtaining of further reſpite, or for their diſcharges to other coſt or ex<g ref="char:EOLhyphen"/>pence in that behalfe.</p>
+            <pb facs="tcp:27671:5"/>
+            <p n="6">6 Alſo it is agreed that the French Shippes may haue free acceſſe to the Keies of the City of LONDON and other ports and hauens of GREAT BRITAIN, and being there, may lade &amp; vnlade their Mer<g ref="char:EOLhyphen"/>chandiſe, and let their ſhips to freight with like liberty, and freedome as the Engliſh do in FRANCE, without conſtraint to vnload their Ships or Veſſels into others, or with<g ref="char:EOLhyphen"/>out other let or impediment whatſoeuer: and alſo that in all other things like liberty, and equalitie of trade ſhall be kept, and ob<g ref="char:EOLhyphen"/>ſerued on both parts as much as may be.</p>
+            <p n="7">7 And becauſe it is impoſsible to ſet downe in writing a ſufficient prouiſion and remedy to euery particular grieuance, or difficulty which may ariſe in commerce, and namely in reſpect of the qualities of Merchandize, which are to be tranſported to and from the one and other kingdome, as alſo in reſpect of the abuſe which by the malice, negligence or want of skill of Tra<g ref="char:EOLhyphen"/>ders ſometimes may bee committed; It is
+<pb facs="tcp:27671:5"/>agreed that in the City of ROAN there ſhall be named and appointed by the Chri<g ref="char:EOLhyphen"/>ſtian King two Merchants of good credit and reputation, being skilfull and of good experience, which with two Engliſh Mer<g ref="char:EOLhyphen"/>chants of good condition and quality to be named by the Ambaſſadour of the Kings Maieſtie of GREAT BRITAIN &amp;c. reſi<g ref="char:EOLhyphen"/>ding for the time in FRANCE, ſhall ioint<g ref="char:EOLhyphen"/>ly receiue, and heare the complaints and controuerſies of the Merchants of GREAT BRITAIN that may ariſe by the Com<g ref="char:EOLhyphen"/>merce, and traffique either at ROAN or other Ports and Hauens of that Prouince, and the ſame they ſhall foorthwith accor<g ref="char:EOLhyphen"/>ding to equity and right (hauing a reſpect to this preſent Treaty) ſpeedily finiſh and compoſe: as alſo the Kings Maieſtie of GREAT BRITAIN is to name two Eng<g ref="char:EOLhyphen"/>liſh Merchants of good reputation and ex<g ref="char:EOLhyphen"/>perience, which likewiſe taking vnto them two French Merchants of like quality to be named by the Ambaſſadour of the French King reſiding in ENGLAND for the time
+<pb facs="tcp:27671:6"/>ſhall doe the like, and ſhall prouide ſpeedy remedy to all the complaints which may happen by reaſon of the ſaid traffique or co<g ref="char:cmbAbbrStroke">̄</g>merce. And if theſe foure cannot agree, then by mutual aſſent between themſelues they are to chuſe and take vnto them a fift, the ſame being in ROAN a French man; in LONDON an Engliſhman; and ſo by the conſent of the greater number of them the iudgement ſhall paſſe. And to the end that this office may with better ef<g ref="char:EOLhyphen"/>fect be executed, there ſhall be giuen vnto them on either part Commiſſions with ne<g ref="char:EOLhyphen"/>ceſſarie authoritie to performe the ſame: And in caſe any great difficultie do ariſe, ſo as it ſhall be conuenient or neceſſarie to certifie either of the Princes thereof, the ſaid Merchants named and appointed in manner aforeſaid ſhall take care to aduer<g ref="char:EOLhyphen"/>tiſe the Councell of the Princes reſpectiue<g ref="char:EOLhyphen"/>ly thereof, to the end that they may giue ſpeedie remedie without loſſe of time and great charge of expences. The like order ſhall be eſtabliſhed and obſerued at BVR<g ref="char:EOLhyphen"/>DEAVX
+<pb facs="tcp:27671:6"/>and CANE and other places of Mart, and Market, &amp; Cities in FRANCE, and the ſame alſo ſhall be obſerued in the Cities of GREAT BRITAIN and IRE<g ref="char:EOLhyphen"/>LAND, that ſo thoſe Perſons which ſhall be named &amp; appointed to vndergoe theſe Offices, in the ſaid places may according to the aforeſaid forme determine of the com<g ref="char:EOLhyphen"/>plaints and difficulties which may happen by reaſon of Commerce and traffique be<g ref="char:EOLhyphen"/>tweene them.</p>
+            <p n="8">8 And for the better accommodating of the ſaid Merchants trading in the king<g ref="char:EOLhyphen"/>doms and Dominions of either of the ſaid Princes, and for eaſing the labours and charges of them which are appointed to this Office, ſo farre foorth as may be, it is agreed that the ſaid Merchants as well En<g ref="char:EOLhyphen"/>gliſh as French vnto whom this authoritie ſhall be committed, which hereafter ſhall be called Conſeruators of Commerce and traffique, ſhall be named and appointed from yeare to yeare, and ſhall take oathe
+<pb facs="tcp:27671:7"/>in FRANCE before the Prior and Conſuls as well in the Citie of ROAN as in the o<g ref="char:EOLhyphen"/>ther Cities in which ſuch Conſeruators ought to bee appointed, and likewiſe in LONDON, and in other Cities of GREAT BRITAINE and IRELAND where need ſhall be, that is to ſay, that they ſhall well and faithfully performe this Office and au<g ref="char:EOLhyphen"/>thoritie committed vnto them, and that during the time aforeſaid ſo often as occa<g ref="char:EOLhyphen"/>ſion ſhall require they ſhall diligently in<g ref="char:EOLhyphen"/>tend this buſineſſe, &amp; that they ſhall therin affoord their labour freely, requiring no<g ref="char:EOLhyphen"/>thing of the ſubiects for that cauſe, except where the partie ſhall deſire a copie of the Acts in writing, in which caſe the taxation of the ſaid writings ſhall bee made by the ſaid Conſeruators moderately and accor<g ref="char:EOLhyphen"/>ding to reaſon.</p>
+            <p n="9">9 Moreouer it is agreed that all exceſ<g ref="char:EOLhyphen"/>ſiue fees, wages, charges and ſmaller du<g ref="char:EOLhyphen"/>ties and paiments, which Officers and Mi<g ref="char:EOLhyphen"/>niſters of diuers places do now exact of the
+<pb facs="tcp:27671:7"/>ſaid Merchants, namely Searchers &amp; Wai<g ref="char:EOLhyphen"/>ters, Laders &amp; Vnladers, Packers, Porters, and generally all other ſuch kind of Offi<g ref="char:EOLhyphen"/>cers, and publique Miniſters ſhall be orde<g ref="char:EOLhyphen"/>red and moderated by the ſaid Conſerua<g ref="char:EOLhyphen"/>tors, and a reaſonable rate of their duties ſhall be ſet down which ſhall be preſented to the Kings Councel in either of the king<g ref="char:EOLhyphen"/>doms, and the ſame by them being ſeene and confirmed, ſhall afterward be publiſh<g ref="char:EOLhyphen"/>ed and ſet vp in writing ſeuerally in Towns and places accuſtomed, to the end that the Merchants on either part may be certaine and aſſured of that which ought by them in ſuch caſe to be paied.</p>
+            <p n="10">10 Alſo the ſaid Conſeruators ſhall informe themſelues particularly of the li<g ref="char:EOLhyphen"/>berties, and priuiledges which are preten<g ref="char:EOLhyphen"/>ded, and challenged by ſome Cities to be due vnto them and their Inhabitants in the Kingdoms and Dominions of either of the Princes, and they ſhall likewiſe informe them of the commoditie and incommo<g ref="char:EOLhyphen"/>ditie
+<pb facs="tcp:27671:8"/>thereof, which being done they are to aduertiſe their Princes on both parts, that by the aduice of their Councell the ſame may be moderated according to equitie, and reduced to the ancient vſes of the ſaid places and Cities.</p>
+            <p n="11">11 The ſaid Conſeruators ſhall alſo haue charge to looke vnto the waights and meaſures which are in the towns of either of the kingdoms, to the end that there be no fraud, or abuſe ſuffered therein by neg<g ref="char:EOLhyphen"/>ligence or deceipt of inferiour Miniſters, and as for the Merchandiſes brought out of either of the ſaid Princes Kingdomes, or from other places, they ſhall determine and order, which of them are ſubiect to vi<g ref="char:EOLhyphen"/>ſitation, and are to be accounted as law<g ref="char:EOLhyphen"/>full or vnlawfull, and which not.</p>
+            <p n="12">12 And foraſmuch as the principall complaint made by the Ambaſſador of his Maieſtie of GREAT BRITAINE &amp;c. and by the Merchants of ENGLAND is
+<pb facs="tcp:27671:8"/>againſt an Arreſt or Iudgement giuen in the Councell of the French King, bearing date the one and twentieth of Aprill, in the yeare of our Lord, one thouſand ſix hun<g ref="char:EOLhyphen"/>dred, containing an Order touching the Workemanſhip and qualitie of Woollen clothes to be brought into FRANCE by the Engliſh Merchants, eſpecially into the Prouinces of NORMANDIE, the leſſer BRITAINE, and GVVYEN; the ſaid French King being deſirous to giue contentment vnto his good brother the King of GREAT BRITAINE, at the in<g ref="char:EOLhyphen"/>ſtance and motion made for the ſame di<g ref="char:EOLhyphen"/>uers times by his Ambaſſador, and being willing alſo to further the co<g ref="char:cmbAbbrStroke">̄</g>merce of Dra<g ref="char:EOLhyphen"/>perie or Woollen Clothes, (ſo as no detri<g ref="char:EOLhyphen"/>ment may thereby redound vnto the pub<g ref="char:EOLhyphen"/>like) is pleaſed that the ſaid Arreſt and Iudgement be reuoked, and doth himſelfe reuoke and abrogate the ſame, and from hencefoorth diſchargeth the Merchants of ENGLAND from the confiſcation or for<g ref="char:EOLhyphen"/>feiture, impoſed as well in the ſame Arreſt,
+<pb facs="tcp:27671:9"/>as in all other Arreſts and Ordinances made for, and concerning the ſaid Drape<g ref="char:EOLhyphen"/>rie or Woollen Clothes, and doth permit and grant vnto the ſaid Merchants of ENGLAND, that if any Woollen Clo<g ref="char:EOLhyphen"/>thes heereafter being faultie, and ill made, be brought by them or any of them, to be vented in FRANCE, that they may not<g ref="char:EOLhyphen"/>withſtanding carrie the ſame backe againe out of FRANCE. And foraſmuch as the ſayd Engliſh Merchants, vpon the diffe<g ref="char:EOLhyphen"/>rence, which may grow for the qualitie and good or ill condition of their Clothes, be much troubled and hindered through loſſe of time, and the ſtaying of their Clo<g ref="char:EOLhyphen"/>thes to their damages; It is agreed, and ac<g ref="char:EOLhyphen"/>corded, that the ſaid Conſeruators of commerce deputed in maner aforeſaid, if at any time ſuch complaint be brought vn<g ref="char:EOLhyphen"/>to them, ſhall vpon due conſideration of the making, and of their value, and of the price of the Clothes iudge and determine which of them are to be accounted lawfull and ſaleable, and which are to be reiected
+<pb facs="tcp:27671:9"/>and ſent backe, as faulte and ill made: in which caſe, the ſaid French King doth commit the whole conſideration, and de<g ref="char:EOLhyphen"/>termination thereof, to the honeſtie, and conſcience of the Conſeruators, and will ratifie and allow what they ſhall do there<g ref="char:EOLhyphen"/>in, and touching thoſe Clothes which ſhall be adiudged to be ſent backe as faul<g ref="char:EOLhyphen"/>tie, nothing ſhall be heereafter required by his Officers for tranſporting of them forth of the kingdome.</p>
+            <p n="13">13 It is further accorded, and conclu<g ref="char:EOLhyphen"/>ded, That the libertie and freedome of commerce in tranſporting of whatſoeuer Merchandizes, whether they be Manu<g ref="char:EOLhyphen"/>factures or Wares vnwrought, ſhall accor<g ref="char:EOLhyphen"/>ding to this Treatie and other precedent Treaties be mainteined in both the King<g ref="char:EOLhyphen"/>domes, and that no reſtraint or prohibiti<g ref="char:EOLhyphen"/>ons ſhal be made on either ſide to the con<g ref="char:EOLhyphen"/>trarie: and if any haue beene made of late, the ſame ſhall be reuoked, except notwith<g ref="char:EOLhyphen"/>ſtanding thoſe Merchandizes which haue
+<pb facs="tcp:27671:10"/>beene in former times prohibited to be brought and tranſported foorth by ſpeci<g ref="char:EOLhyphen"/>all Lawes and Statutes in either of the Kingdomes: All which kinde of Merchan<g ref="char:EOLhyphen"/>dizes, that they may be certainly knowne, are to be comprehended in writing, and deliuered to the ſaid Conſeruators of com<g ref="char:EOLhyphen"/>merce on either ſide, and publiquely ſet vp in maner aforeſaid.</p>
+            <p n="14">14 Moreouer it is agreed, That if there doe happen any Ship to go from GREAT BRITAINE into FRANCE, or from FRANCE into GREAT BRITAINE, laden with greater quantitie of Merchan<g ref="char:EOLhyphen"/>dize, than for which the Cuſtome and o<g ref="char:EOLhyphen"/>ther duties hath beene iuſtly payd; in that caſe the ſaid quantitie onely ſhall be ſub<g ref="char:EOLhyphen"/>iect to confiſcation, and the reſidue of the ſaid Merchandizes ſhall be freely diſchar<g ref="char:EOLhyphen"/>ged: Notwithſtanding if amongſt the ſaid Merchandizes there be found any Wares which by the Statutes and Ordinances of the Kingdome from whence they are to be
+<pb facs="tcp:27671:10"/>tranſported, may not lawfully be carried; in that caſe, the Ordinances and Statutes of the ſaid Kingdome are to be obſerued.</p>
+            <p n="15">15 Likewiſe it is agreed and accorded, That the Merchants and Inhabitants of the Ilands of GERNESEY and IERSEY, may freely and ſafely trade and traffique in the Kingdome of FRANCE, and in the parts thereof, and that they ſhall haue and enioy the like priuiledges and liberties there, as the Subiects of the French King doe enioy in the ſaid Ilands, paying not<g ref="char:EOLhyphen"/>withſtanding all duties in euery place ap<g ref="char:EOLhyphen"/>pertaining vnto the Princes.</p>
+            <p n="16">16 The Subiects of his Maieſtie of GREAT BRITAINE, ſhall receiue in all their cauſes and ſutes, ready and expe<g ref="char:EOLhyphen"/>dite iuſtice in FRANCE, and the Officers and Miniſters of the Ports of NORMAN<g ref="char:EOLhyphen"/>DIE, the leſſer BRITAINE and GVY<g ref="char:EOLhyphen"/>EN, ſhall be charged kindly and friendly to entertaine them. And if any matter of
+<pb facs="tcp:27671:11"/>greater moment and importance do ariſe, the French King inioineth his Councell to take vpon them the knowledge thereof themſelues, or to delegate or appoint Iudges indifferent, and not ſuſpected; As alſo the like order ſhall be taken by his Maieſtie of GREAT BRITAINE to<g ref="char:EOLhyphen"/>wards the Subiects of the French King, a<g ref="char:EOLhyphen"/>biding within his Kingdome, and requi<g ref="char:EOLhyphen"/>ring iuſtice there.</p>
+            <p n="17">17 The Subiects of the French King entring into the Ports of the Kingdome of GREAT BRITAINE, ſhall not heere<g ref="char:EOLhyphen"/>eafter pay any thing more for Cockets, then the naturall Subiects of the ſaid King<g ref="char:EOLhyphen"/>dome are accuſtomed to pay.</p>
+            <p n="18">18 And if it ſhall happen that any of the Subiects of either of the ſaid Kings, by ſtorme or tempeſt, or for feare of the ene<g ref="char:EOLhyphen"/>mie, ſhall be compelled to caſt anckor in any Port, Road or Hauen, appertaining to the ſaid Kings reſpectiuely, they ſhall not
+<pb facs="tcp:27671:11"/>be vrged to pay any Cuſtome, or other du<g ref="char:EOLhyphen"/>ties, either at their entrance or departure, for their Merchandizes, ſo caſually brought in. Prouided alwaies, that the Maſter of the Shippes, or the Factor of the Merchants, doe the ſame day wherein any ſuch Veſſell ſhall ſo arriue, or the next day after the arriuall, certifie the Officers or Cuſtomers of the place, to whom it appertaineth, the true occaſion of the ſaid arriuall, and alſo that they (being required) ſhall exhibite their Charter parties, &amp; be enioined to put foorth, and depart from thence ſo ſoone as the winde may ſerue them, or the perill be remooued: And if it happen whileſt they ſo remaine in the Port, that vpon ne<g ref="char:EOLhyphen"/>ceſsitie they bee compelled to ſell their Merchandizes, or any part thereof; then they ſhall pay to the Cuſtomer or Farmers, ſuch duties as are to be anſwered for, to the quantitie onely of that which they haue ſolde; and it ſhall be lawfull vnto them freely to tranſport the reſt.</p>
+            <pb facs="tcp:27671:12"/>
+            <p n="19">19 And the French King being deſi<g ref="char:EOLhyphen"/>rous to make it more appeare how greatly he eſteemeth of the amitie of his good Brother, the Kings Maieſtie of GREAT BRITAINE, and his willingneſſe, lo<g ref="char:EOLhyphen"/>uingly and fauourablie to entreat his ſaid Brothers Subiects, abiding and trading in FRANCE, and how much hee fauoureth this mutuall entercourſe and Commerce betweene their Subiects, although the right of <hi>Aubeyne</hi> is woorthilie accoun<g ref="char:EOLhyphen"/>ted amongſt the moſt ancient priuiled<g ref="char:EOLhyphen"/>ges and prerogatiues of the Kingdome; neuertheleſſe, he is pleaſed to permit and grant to the Engliſh Merchants and their Procurators or Factors, and to all other the Subiects of the Kings Maieſtie of GREAT BRITAINE, full libertie and right to make their laſt Willes and Teſtaments, accordingly; and according to their good liking, to diſpoſe as well liuing as dying, of their Merchandize, Monies, Debts and of all other their mooueable goods, which either they haue or ought to haue, in any
+<pb facs="tcp:27671:12"/>the Dominions &amp; places of the ſaid French King; and alſo that whether they die Te<g ref="char:EOLhyphen"/>ſtate or Inteſtate, their Heires may haue and enioy their goods, &amp;c. according to the Lawes of ENGLAND, ſo as hereaf<g ref="char:EOLhyphen"/>ter their goods ſhall not be held confiſca<g ref="char:EOLhyphen"/>ble by the right of <hi>Aubeyne.</hi>
+            </p>
+            <p n="20">20 Likewiſe it is agreed, and accorded, That the Subiects of the French King may in the ſame maner freely make their Teſta<g ref="char:EOLhyphen"/>ments, and according to their pleaſure may either at their death, or while they liue, diſpoſe of their goods in ENGLAND, SCOTLAND, and IRELAND, and in other the Lands and Dominions of the Kings Maieſtie of GREAT BRITAINE; And that after their deathes, whether they ſhall die Teſtate or Inteſtate, their Heires either named in the Teſtament or other<g ref="char:EOLhyphen"/>wiſe ſucceeding by Law, ſhall according to the Lawes of FRANCE haue and en<g ref="char:EOLhyphen"/>ioy the ſame goods. Prouided neuerthe<g ref="char:EOLhyphen"/>leſſe, that the Willes and Teſtaments or
+<pb facs="tcp:27671:13"/>Rights to ſucceed <hi>ab Intestato,</hi> aſwell of the Subiects of the French King as alſo of the Kings Maieſtie of GREAT BRITAINE, ſhall be lawfullie prouided in the place where the parties deceaſed and died, whe<g ref="char:EOLhyphen"/>ther the ſame ſhall happen in FRANCE, or in the Kingdome of GREAT BRI<g ref="char:EOLhyphen"/>TAINE, or elſwhere within either of their Kingdomes.</p>
+            <p n="21">21 And vntill ſuch time that iuſtice may be done in cauſes of Piracie and De<g ref="char:EOLhyphen"/>predation pretended to haue beene com<g ref="char:EOLhyphen"/>mitted on the one ſide or other, for which order ſhall be taken with as much expedi<g ref="char:EOLhyphen"/>tion as may be; It is concluded, that all Letters of Mart and Repriſals, which by either of the Princes before this time haue beene granted, ſhalbe ſuſpended; and that the ſame Repriſals ſhall not heereafter be executed, vntill ſuch time as it ſhall ſo be determined by decree of the Councell of the one and other Prince; and that hereaf<g ref="char:EOLhyphen"/>ter no ſuch Letters of Mart or Repriſals
+<pb facs="tcp:27671:13"/>ſhall be granted by any of the ſayd Prin<g ref="char:EOLhyphen"/>ces, but that the Ambaſſadour reſident in either places ſhall be firſt aduertiſed there<g ref="char:EOLhyphen"/>of. And alſo after the ſame haue beene de<g ref="char:EOLhyphen"/>liberatly conſidered on in the Councell of the Princes from whom they are to be ob<g ref="char:EOLhyphen"/>teined, and confirmed by the Kings Great ſeale, and together with all other ſolemni<g ref="char:EOLhyphen"/>ties obſerued, which are requiſit in ſuch caſes.</p>
+            <p n="22">22 It is agreed further, and accorded, That this Treatie ſhall alwayes be vnder<g ref="char:EOLhyphen"/>ſtood according to the proprietie and true ſignification of the wordes therein con<g ref="char:EOLhyphen"/>teined; and that it ſhall admit no ſuch interpretation as may in any part let or hinder the force and effect thereof ex<g ref="char:EOLhyphen"/>preſſed in the plaine and ſimple words; but that all ſubtilitie of vnderſtanding, which for the moſt part ſubuerteth the true meaning of the parties being taken away, that which in good faith is done and expreſſed in this Treatie ſhall fullie
+<pb facs="tcp:27671:14"/>and ſincerely bee accompliſhed and per<g ref="char:EOLhyphen"/>formed.</p>
+            <p n="23">23 Laſt of all, it is agreed and accor<g ref="char:EOLhyphen"/>ded, That this preſent Treatie ſhall in all things be firmly and ſincerely kept du<g ref="char:EOLhyphen"/>ring the continuance of the League and Amitie betweene the ſaid Princes and their Succeſſors.</p>
+            <p n="24">24 In all and ſinguler which Articles before in this Treatie expreſſed, and be<g ref="char:EOLhyphen"/>tweene vs the forenamed Deputies coue<g ref="char:EOLhyphen"/>nanted and concluded by vertue of our Commiſſions, and by the authority there<g ref="char:EOLhyphen"/>in to vs giuen, whatſoeuer hath been done, the ſame wholly ſhall be vnderſtood to be ſubmitted to the will and pleaſure of their Maieſties. And wee the Deputies of the French King haue promiſed, and do pro<g ref="char:EOLhyphen"/>miſe, That his Maieſtie will ratifie and ap<g ref="char:EOLhyphen"/>proue, and by his authoritie will confirme all and ſinguler the ſayd Articles by Letters patents ſigned with his hand, and ſealed
+<pb facs="tcp:27671:14"/>with his Great ſeale; and that the ſame ſhall bee verified and approoued in the Courts of his Kingdome, where, and when need ſhall require: The which Letters of Confirmation and Ratification the ſayd French King ſhall cauſe to be giuen and deliuered in ſufficient and auailable forme, within the ſpace of three moneths from the day of theſe preſents, vnto the Ambaſ<g ref="char:EOLhyphen"/>ſadour of the Kings Maieſtie of GREAT BRITAINE, reſiding with his Chriſtian Maieſtie in FRANCE, he hauing ſuffici<g ref="char:EOLhyphen"/>ent power and authoritie to receiue the ſame. In like maner, we the aforeſaid Am<g ref="char:EOLhyphen"/>baſſador and Deputie of the Kings Maieſty of GREAT BRITAINE haue alſo pro<g ref="char:EOLhyphen"/>miſed, and do promiſe, That whatſoeuer the ſayd French King is before bound in this Article to accompliſh and performe on his part, the Kings Maieſty of GREAT BRITAINE, &amp;c. will on his part like<g ref="char:EOLhyphen"/>wiſe do and performe; and will alſo ratifie and approoue this preſent Treatie within that ſame time, and in the ſame forme and
+<pb facs="tcp:27671:15"/>maner as it is promiſed, if it ſo ſeeme good and acceptable to their Maieſties on both parts.</p>
+            <p>In teſtimonie of all which things, and of euery one of them, we the Commiſſioners deputed, haue euery one of vs to this pre<g ref="char:EOLhyphen"/>ſent Treatie ſubſcribed with our owne hands; and by putting thereunto our ſeales haue confirmed the ſame. Giuen at PARIS the xxiiij. day of <hi>Februarie,</hi> in the yeere from the Nati<g ref="char:EOLhyphen"/>uity of our Lord God 1605.</p>
+            <pb facs="tcp:27671:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
